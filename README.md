@@ -41,7 +41,7 @@
     <li>
       <a href="#content">Content</a>
       <ul>
-        <li><a href="#data-structures">Projects</a></li>
+        <li><a href="#projects">Projects</a></li>
       </ul>
     </li>
     <li>

@@ -79,6 +79,8 @@ All Codes are in HTML, CSS, JS and VS Code Editor is used.
 <!-- CONTENT -->
 ## Content
 
+## Projects
+
 ### [Guess My Game App](https://github.com/sayedsadat98/JavaScript-Projects/tree/master/Guess%20My%20Number)
 * [Link of the Front-end](https://sayedsadat98.github.io/JavaScript-Projects/)
 

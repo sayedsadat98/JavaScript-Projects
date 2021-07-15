@@ -10,10 +10,10 @@
 <!-- PROJECT INFORMATION -->
 <br />
 <p align="center">
-  <h3 align="center">Guess My Number</h3>
+  <h3 align="center">Restaurant App | Forkify</h3>
 
   <p align="center">
-    Project to get started with JavaScript
+    Recipe app where users can search for about 1 million recipes.
     <br />
     <a href="https://github.com/sayedsadat98/JavaScript-Projects/blob/main/README.md"><strong>Read the documentation »</strong></a>
     <br />
@@ -47,7 +47,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#instruction-manual">Instruction Manual</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -63,23 +63,29 @@
 <!-- ABOUT THE REPOSITORY -->
 ## About The Project
 
-This is a practice (beginner) project to get started your career as a JavaScript developer/ Web Developer.
+Users can search a recipe by it's main ingredient name, it will display a list containing this ingredient, then you can add this recipe's ingredients to your shopping list and edit servings. Users can also love(❤) recipe(s).
+
+The pages is loaded dynamically using AJAX calls. The recipes are fetched through an API.
 
 A list of commonly used resources that I find helpful are also listed in the [acknowledgements](#acknowledgements).
 
 ### Built With
 
 All Codes are in HTML, CSS, JS and VS Code Editor is used. 
-* [HTML5]
-* [CSS3]
-* [JS]
+* HTML5
+* SASS
+* JavaScript (ES6)
+* NPM
+* WebPack (Webpack was used as the module bundler to incorporate Axios for fetching as well as BABEL for compiling the next-gen JavaScript)
+* Babel
+* AJAX
 
 
 
 <!-- CONTENT -->
 ## Content
 
-### Guess My Game App
+### Forkify App
 * [Link of the Front-end](https://sayedsadat98.github.io/JavaScript-Projects/)
 
 
@@ -90,9 +96,12 @@ All Codes are in HTML, CSS, JS and VS Code Editor is used.
 
 You will need to install a browser and a IDE/editor of your choice. 
 
-### Prerequisites
+### Instruction Manual
 
-N/A
+1.) Open the App. <br/>
+2.) Enter any dish. <br/>
+3.) You will be able to see different recipe for same dish. <br/>
+4.) Choose and one to view it in detail.
 
 ### Installation
 
@@ -101,6 +110,10 @@ N/A
    ```sh
    git clone https://github.com/sayedsadat98/JavaScript-Projects.git
    ```
+3. Install Dependencies <br/>
+   ```npm install```
+4. Start the Server.<br/> View the project live on your local machine at http://localhost:3000 <br/>
+   ```npm start```
 
 <!-- ROADMAP -->
 ## Roadmap

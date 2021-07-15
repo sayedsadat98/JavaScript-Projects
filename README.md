@@ -10,7 +10,7 @@
 <!-- PROJECT INFORMATION -->
 <br />
 <p align="center">
-  <h3 align="center">Guess My Number</h3>
+  <h3 align="center">JavaScript Projects</h3>
 
   <p align="center">
     Project to get started with JavaScript
@@ -41,7 +41,7 @@
     <li>
       <a href="#content">Content</a>
       <ul>
-        <li><a href="#data-structures">Front End Application Link</a></li>
+        <li><a href="#data-structures">Projects</a></li>
       </ul>
     </li>
     <li>
@@ -73,15 +73,20 @@ All Codes are in HTML, CSS, JS and VS Code Editor is used.
 * [HTML5]
 * [CSS3]
 * [JS]
-
+* SCSS
 
 
 <!-- CONTENT -->
 ## Content
 
-### Guess My Game App
+### [Guess My Game App](https://github.com/sayedsadat98/JavaScript-Projects/tree/master/Guess%20My%20Number)
 * [Link of the Front-end](https://sayedsadat98.github.io/JavaScript-Projects/)
 
+### [Pig Game/ Dice Roll Game](https://github.com/sayedsadat98/JavaScript-Projects/tree/master/Pig%20Game)
+* [Link of the Front-end]
+
+### [Restaurant App](https://github.com/sayedsadat98/JavaScript-Projects/tree/master/Restaurant%20App)
+* [Link of the Front-end]
 
 
 
